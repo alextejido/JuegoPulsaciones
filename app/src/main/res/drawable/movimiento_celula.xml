@@ -2,64 +2,64 @@
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
     android:oneshot="false">
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_16"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_17"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_18"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_19"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_20"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_21"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_22"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_23"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_24"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_25"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_26"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_27"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_28"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_29"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_30"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_31"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_32"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_33"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_34"/>
     <item
-        android:duration="300"
+        android:duration="200"
         android:drawable="@mipmap/foto_35"/>
 
 </animation-list>
